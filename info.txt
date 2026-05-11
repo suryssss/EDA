@@ -1,0 +1,41 @@
+steps in machine learning model
+1-problem defination
+2-data collection
+3-EDA
+4-data cleaning
+5-feature engineering
+6-split-dataset
+7-model selection
+8-model training
+9-model evaluation
+10-Hyperparameter-tuning
+11-model testing
+
+EDA-Exploratory Data Analysis
+understand it
+Discover patterns
+spot anomalies
+generate insights
+and decide what to do 
+
+EDA steps
+viewing the data-head,tail,info,shape,dtypes
+summary statistics-describe(mean,median,mode,std,min,max,quartiles)
+value counts-(how many unique values in a column & great of categorical columns)
+visualizations:
+-histogram-distribution of numerical data
+-boxplot-outliers and distribution of numerical data
+-scatterplot-relationship between two numerical variables
+-count plot-distribution of categorical data
+-bar-plot-comparison of different categories
+target variable Exploratory
+-how does your output relate to other variables
+
+data-cleaning:
+-handle missing values
+-remove duplicates
+-handle outliers
+
+data-preprossing:
+-one-hot-encoding(nominal)(converting categorical data into numerical data )
+-label-encoding(ordinal)(converting categorical data into numerical data)
